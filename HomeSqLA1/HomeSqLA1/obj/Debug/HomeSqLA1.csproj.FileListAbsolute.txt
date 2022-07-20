@@ -1,0 +1,10 @@
+C:\Users\win10.DESKTOP-UN\source\repos\HomeSqLA1\HomeSqLA1\bin\Debug\HomeSqLA1.exe.config
+C:\Users\win10.DESKTOP-UN\source\repos\HomeSqLA1\HomeSqLA1\bin\Debug\HomeSqLA1.exe
+C:\Users\win10.DESKTOP-UN\source\repos\HomeSqLA1\HomeSqLA1\bin\Debug\HomeSqLA1.pdb
+C:\Users\win10.DESKTOP-UN\source\repos\HomeSqLA1\HomeSqLA1\obj\Debug\HomeSqLA1.csproj.AssemblyReference.cache
+C:\Users\win10.DESKTOP-UN\source\repos\HomeSqLA1\HomeSqLA1\obj\Debug\HomeSqLA1.Form1.resources
+C:\Users\win10.DESKTOP-UN\source\repos\HomeSqLA1\HomeSqLA1\obj\Debug\HomeSqLA1.Properties.Resources.resources
+C:\Users\win10.DESKTOP-UN\source\repos\HomeSqLA1\HomeSqLA1\obj\Debug\HomeSqLA1.csproj.GenerateResource.cache
+C:\Users\win10.DESKTOP-UN\source\repos\HomeSqLA1\HomeSqLA1\obj\Debug\HomeSqLA1.csproj.CoreCompileInputs.cache
+C:\Users\win10.DESKTOP-UN\source\repos\HomeSqLA1\HomeSqLA1\obj\Debug\HomeSqLA1.exe
+C:\Users\win10.DESKTOP-UN\source\repos\HomeSqLA1\HomeSqLA1\obj\Debug\HomeSqLA1.pdb
